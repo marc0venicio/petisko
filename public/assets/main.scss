@@ -1,0 +1,29 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+
+$color-primary: rgb(255, 22, 111);
+$color-secondary: rgba(24,24,24, 0.05);
+
+$theme-colors:(
+    "color-primary": $color-primary,
+    "color-secondary": $color-secondary
+);
+
+.container{
+    margin-top: 10em;
+}
+
+.header{
+    text-align: center;
+    align-items: center;
+}
+
+.button{
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
