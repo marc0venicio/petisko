@@ -13,6 +13,10 @@
 
 para você conseguir utilizar o projeto deverá instalar o pacote <a href="https://packagist.org/packages/canducci/zipcode">canducci/zipcode</a> 
 
+<div>
+  <img src = "/gif-petisko.gif" alt = "demo" height = "425">
+  <br>
+</div>
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
