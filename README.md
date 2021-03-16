@@ -7,7 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Instalação do Projeto
 
+#requisitos
+
+para você conseguir utilizar o projeto deverá instalar o pacote ##<a href="https://packagist.org/packages/canducci/zipcode">canducci/zipcode</a> 
 
 ## License
 
