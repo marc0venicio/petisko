@@ -9,9 +9,9 @@
 
 ## Instalação do Projeto
 
-#requisitos
+## requisitos
 
-para você conseguir utilizar o projeto deverá instalar o pacote ##<a href="https://packagist.org/packages/canducci/zipcode">canducci/zipcode</a> 
+para você conseguir utilizar o projeto deverá instalar o pacote <a href="https://packagist.org/packages/canducci/zipcode">canducci/zipcode</a> 
 
 ## License
 
